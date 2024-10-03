@@ -7,14 +7,14 @@ Siyuan Dong, Zhuotong Cai, Gilbert Hangel, Wolfgang Bogner, Georg Widhalm, Yaqin
 ### Citation
 If you use this code please cite:
 
-    @article{dong2024flow,
-  	title={A Flow-based Truncated Denoising Diffusion Model for super-resolution Magnetic Resonance Spectroscopic Imaging},
-  	author={Dong, Siyuan and Cai, Zhuotong and Hangel, Gilbert and Bogner, Wolfgang and Widhalm, Georg and Huang, Yaqing and Liang, Qinghao and You, Chenyu and Kumaragamage, Chathura and Fulbright, Robert K and others},
-  	journal={Medical Image Analysis},
-  	pages={103358},
-  	year={2024},
-  	publisher={Elsevier}
-}
+	@article{dong2024flow,
+	  title={A Flow-based Truncated Denoising Diffusion Model for super-resolution Magnetic Resonance Spectroscopic Imaging},
+	  author={Dong, Siyuan and Cai, Zhuotong and Hangel, Gilbert and Bogner, Wolfgang and Widhalm, Georg and Huang, Yaqing and Liang, Qinghao and You, Chenyu and Kumaragamage, Chathura and Fulbright, Robert K and others},
+	  journal={Medical Image Analysis},
+	  pages={103358},
+	  year={2024},
+	  publisher={Elsevier}
+	}
    
 ### Environment and Dependencies
  Requirements:
